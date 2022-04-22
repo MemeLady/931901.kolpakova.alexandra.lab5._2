@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\u4eba\\3-курс\\Web технологии\\931901.kolpakova.alexandra.lab5._2\\WebApplication1\\WebApplication1.csproj": {}
+    "D:\\u4eba\\3-курс\\Web технологии\\931901.kolpakova.alexandra.lab5._2\\Lab5\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\u4eba\\3-курс\\Web технологии\\931901.kolpakova.alexandra.lab5._2\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\u4eba\\3-курс\\Web технологии\\931901.kolpakova.alexandra.lab5._2\\Lab5\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\u4eba\\3-курс\\Web технологии\\931901.kolpakova.alexandra.lab5._2\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\u4eba\\3-курс\\Web технологии\\931901.kolpakova.alexandra.lab5._2\\Lab5\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\u4eba\\3-курс\\Web технологии\\931901.kolpakova.alexandra.lab5._2\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "D:\\u4eba\\3-курс\\Web технологии\\931901.kolpakova.alexandra.lab5._2\\Lab5\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\Pro100SuperGirl\\.nuget\\packages\\",
-        "outputPath": "D:\\u4eba\\3-курс\\Web технологии\\931901.kolpakova.alexandra.lab5._2\\WebApplication1\\obj\\",
+        "outputPath": "D:\\u4eba\\3-курс\\Web технологии\\931901.kolpakova.alexandra.lab5._2\\Lab5\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pro100SuperGirl\\AppData\\Roaming\\NuGet\\NuGet.Config",

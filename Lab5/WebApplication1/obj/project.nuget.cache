@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G1dTFrM9KCIwiD8qz3gFJpMwfIyNl4+h3wkmOlFXs+GfEfDzW6ejDDY+9o/MaAzyQN/Uwg9rxAPYarsidEctcA==",
+  "dgSpecHash": "IotfIImY4Nowkeev2Fl70lyi6ph2owBQNUxpj6TIs6WZ7rE14eNOv3nO7eVGJw+fdgVUltvg9MQ2r3b/qhwtmg==",
   "success": true,
-  "projectFilePath": "D:\\u4eba\\3-курс\\Web технологии\\931901.kolpakova.alexandra.lab5._2\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "D:\\u4eba\\3-курс\\Web технологии\\931901.kolpakova.alexandra.lab5._2\\Lab5\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pro100SuperGirl\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Pro100SuperGirl\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
